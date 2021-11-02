@@ -1,3 +1,4 @@
+spamwatch
 future
 emoji
 lxml
@@ -37,7 +38,6 @@ numpy
 bleach
 git+https://github.com/starry69/python-markdown2.git
 wikipedia
-spamwatch
 alphabet_detector
 pyrate-limiter
 cachetools
